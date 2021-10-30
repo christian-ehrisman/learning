@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 // Setup
 const contacts = [
     {
